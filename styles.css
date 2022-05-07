@@ -6,7 +6,8 @@
 
 body {
     min-height: 100vh;
-    background-color: rgb(94, 18, 18);
+    background: radial-gradient(rgba(0, 0, 0, .9), rgba(0, 0, 0, .8), rgba(0, 0, 0, .6), rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url('./assets/food.jpg') no-repeat center;
+    background-size: cover;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -15,6 +16,7 @@ body {
 p {
     max-width: 90vw;
     text-align: center;
-    width: 500px;
+    width: 800px;
     color: #eaeaea;
+    font-size: 2rem;
 }
