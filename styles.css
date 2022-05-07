@@ -6,7 +6,7 @@
 
 body {
     min-height: 100vh;
-    background-color: #e8d1c6;
+    background-color: #000;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -16,4 +16,5 @@ p {
     max-width: 90vw;
     text-align: center;
     width: 500px;
+    color: #eaeaea;
 }
