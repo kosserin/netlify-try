@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    background-color: #eaeaea;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p {
+    max-width: 90vw;
+    text-align: center;
+    width: 500px;
+}
